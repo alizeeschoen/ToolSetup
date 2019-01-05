@@ -6,6 +6,8 @@ Please go through the steps below ASAP. It is __OKAY__ if you cannot complete so
 
 If you are a cross-registrant and do not have an MIT email address, complete as many steps as you can and leave the `Kerberos` section of step 3 blank.
 
+Please join our [course piazza page](https://piazza.com/mit/spring2019/6178), and ask any questions if you run into issues.
+
 1. create an MIT GitHub Enterprise account at [MIT GitHub](https://github.mit.edu)
     - use your kerberos as your username, if you have one
 1. complete the following sections of [6.031 tools](http://web.mit.edu/6.031/www/fa18/getting-started/)
