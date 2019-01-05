@@ -2,7 +2,7 @@
 
 Welcome to 6.178!
 
-Please go through the steps below ASAP. It is __OKAY__ if you cannot complete some of them because the staff will help you trouble-shoot both on Piazza and the first day of class. But please try to complete as much as you can before the first day!
+Please go through the steps below ASAP. It is __OKAY__ if you cannot complete some of them because the staff will help you trouble-shoot both on Piazza and during the first day of class. But please try to complete as much as you can before the first day, and ask for help when you need it!
 
 If you are a cross-registrant and do not have an MIT email address, complete as many steps as you can and leave the `Kerberos` section of the student information form blank.
 
