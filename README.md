@@ -12,5 +12,5 @@ If you are a cross-registrant and do not have an MIT email address, complete as 
     - `1`, `2`, `4.1`, `5`, `6.2`
     - `1. Who are you?` of section `6.1`
 1. download [Eclipse installer](https://www.eclipse.org/downloads/)
-    - after launching the installer, select `Eclipse IDE for Java Developers`, as shown in the below image ![image](images/java.png)
+    - after launching the installer, select `Eclipse IDE for Java Developers`, as shown in the below image. Proceed with installing Eclipse for Java. ![image](images/java.png)
 1. [fill out the student information form](https://goo.gl/forms/2k7TOeZ3Xfglt6vo2)
