@@ -4,6 +4,11 @@ Welcome to 6.178!
 
 Please read/complete __EVERYTHING__ carefully in order to properly be registered for the course.
 
+## Table of Contents
+
+- [Announcements](#announcements)
+- [Actual Setup](#actual-setup)
+
 ## Announcements
 
 1. we have office hours every `TR 11am-4pm` in room `34-303`
