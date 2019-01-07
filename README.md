@@ -7,6 +7,7 @@ Please read/complete __EVERYTHING__ carefully in order to properly be registered
 1. if you are a cross registrant
     - contact the registrar to receive an MIT email address, otherwise known as a `kerberos`
     - you will not be able to join Piazza or the MIT GitHub without a `kerberos`
+    - when you do receive one, fill out the form below and email `jchoi5me@mit.edu`
 1. join our [course piazza page](https://piazza.com/mit/spring2019/6178)
     - if it is a semi-personal issue, please make posts `private` and include only the instructors
     - if it is a personal issue, email `6178-staff@mit.edu`
