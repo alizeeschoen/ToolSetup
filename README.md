@@ -8,7 +8,11 @@ Please read/complete __EVERYTHING__ carefully in order to properly be registered
     - contact the registrar to receive an MIT email address, otherwise known as a `kerberos`
     - you will not be able to join Piazza or the MIT GitHub without a `kerberos`
     - when you do receive one, fill out the form below and email `jchoi5me@mit.edu`
+1. check that you are actually registered for 6.178
+    - try checking anywhere on [MIT WebSIS](websis.mit.edu) as well as other places
+    - if you cannot find any information, please email the registrar at `records@mit.edu` to find out more
 1. join our [course piazza page](https://piazza.com/mit/spring2019/6178)
+    - joining is __MANDATORY__ and is not optional
     - if it is a semi-personal issue, please make posts `private` and include only the instructors
     - if it is a personal issue, email `6178-staff@mit.edu`
     - for practically everything else, please make posts `public`
