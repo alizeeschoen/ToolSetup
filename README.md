@@ -17,6 +17,7 @@ Please read/complete __EVERYTHING__ carefully in order to properly be registered
       - setting up and/or learning `Eclipse`, `Git`, `SSH`, or `Java`
       - learning lecture 1 materials
       - completing lecture 1 practice problems
+      - literally anything else
 1. lecture 1 notes are available at `https://github.com/jchoi5me/lec01`
     - future lectures will be available via MIT GitHub
     - you will have access to MIT GitHub after you submit the form below and the staff adds you
